@@ -1,0 +1,1 @@
+INSERT INTO Produto(id,nome,info, quantidade, valor) VALUES (1,'pera','fruta',10,20.00);
